@@ -20,7 +20,6 @@ define Ch = Character('Чиона', color="#fffbc8",
     what_layout="subtitle")
 
 
-
     image Pifon_def = "Pifon_def.png"
 
     image Chiona_def = "Chiona_def.png"
